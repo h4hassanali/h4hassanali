@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer with a Strong Foundation in Programming and Problem-Solving, Ready to buildworld-classsuite products to support the hyper-growth of businesses
+Software Engineer with a Strong Foundation in Programming and Problem-Solving, Ready to build world-class suite products to support the hyper-growth of businesses
 
 
 ## 🌐 Socials:
