@@ -1,7 +1,7 @@
 # 💫 About Me
-Senior Software Engineer specializing in backend systems, scalable architectures, and product engineering. I focus on building reliable, high-performance software solutions that support business growth and scale seamlessly under load.
+Senior Software Engineer specializing in backend systems, distributed architectures, and scalable product development. I focus on building high-performance, reliable, and maintainable software systems that support business growth and scale under real-world production loads.
 
-Passionate about system design, clean architecture, and turning complex business requirements into robust, production-grade systems.
+Experienced in designing REST and GraphQL APIs, working with microservices architectures, and delivering end-to-end solutions with strong emphasis on system design, performance optimization, and clean architecture principles.
 
 ---
 
@@ -14,11 +14,24 @@ Passionate about system design, clean architecture, and turning complex business
 ---
 
 ## 💻 Tech Stack
-**Backend & Frameworks:** Python, Django, Django REST Framework, Flask  
-**Frontend:** HTML5, JavaScript  
-**Databases:** PostgreSQL, MySQL, Microsoft SQL Server  
-**Cloud & DevOps:** AWS  
-**AI/ML:** TensorFlow, PyTorch, Keras, scikit-learn  
+
+**Backend & Frameworks:**  
+Python, FastAPI, Django, Flask  
+
+**API Architecture:**  
+REST APIs, GraphQL  
+
+**Frontend:**  
+React.js, HTML5, JavaScript  
+
+**Databases:**  
+PostgreSQL, MongoDB, MySQL, Microsoft SQL Server  
+
+**Cloud & DevOps:**  
+AWS, CI/CD Pipelines, Jenkins, Docker, AWS Load Balancers (ALB/ELB), Nginx  
+
+**RAG Systems & AI Engineering:**  
+Retrieval-Augmented Generation (RAG), Vector Databases, Embeddings, Semantic Search, LLM Integration  
 
 ---
 
@@ -37,6 +50,4 @@ Passionate about system design, clean architecture, and turning complex business
 ---
 
 ## 📈 Profile Insights
-Focused on backend-heavy systems, API design, and scalable service architecture. Experienced in building and maintaining production-grade systems with emphasis on performance, maintainability, and clean code practices.
-
----
+Focused on backend engineering, scalable API design, and distributed systems. Strong emphasis on building resilient services, optimizing performance, and designing clean, maintainable architectures suitable for high-scale production environments.
